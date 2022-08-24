@@ -63,7 +63,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/SK-ILLish-GIT/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SK-ILLish-GIT&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/SK-ILLish-GIT/github-readme-activity-graph"><img alt="SK's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SK-ILLish-GIT&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
